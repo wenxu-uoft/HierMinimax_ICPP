@@ -1,5 +1,5 @@
 # HierMinimax_ICPP
-Code for Distributed Minimax Fair Optimization over Hierarchical Networks (ICPP 2024 Submission).
+Code for Distributed Minimax Fair Optimization over Hierarchical Networks (ICPP 2024).
 
 ## This repo contains all code needed to replicate the results.
 The code for the convex loss function setting is in `HierMinimax_ICPP2024_CVX.ipynb` and the code for the non-convex loss function setting is in `HierMinimax_ICPP2024_NONCVX.ipynb`.
