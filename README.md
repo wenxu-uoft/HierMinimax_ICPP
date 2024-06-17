@@ -9,4 +9,4 @@ After running all blocks (e.g., Runtime -> Run all in Google Colab), all results
 We strongly recommend you use Google Colab to run these Jupyter Notebooks. Otherwise, you will need to install all required packages by uncommenting the first code block in each of the files.
 
 ## References
-[1] W. Xu, J. Wang, B. Liang, G. Boudreau, and H. Sokun, “Distributed minimax fair optimization over hierarchical networks,” in Proceedings of International Conference on Parallel Processing (ICPP), 2024
+[1] W. Xu, J. Wang, B. Liang, G. Boudreau, and H. Sokun, “Distributed minimax fair optimization over hierarchical networks,” in Proceedings of International Conference on Parallel Processing (ICPP), 2024.
